@@ -41,3 +41,14 @@
   <summary>Where do dogs hate to shop?</summary>
   Flea Markets!
 </details>
+
+## Random Jokes ◕
+<details>
+  <summary>What did the knights tombstone say?</summary>
+  Rust in peace!
+</details>
+<details>
+  <summary>What do math teachers eat?</summary>
+  Square meals!
+</details>
+ 
