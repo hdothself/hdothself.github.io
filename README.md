@@ -1,5 +1,17 @@
 # Funny Jokes 😆
 
-[Animal Jokes](https://bluefox30.github.io/animal-jokes)      
-[Sports Jokes](https://bluefox30.github.io/animal-jokes)
+## Animal Jokes
 
+<details>
+  <summary>Where do dogs hate to shop?</summary>
+  
+  Flea Markets!
+  
+</details>
+
+<details>
+  <summary>What do dogs put on their pizza?</summary>
+  
+  Mutts-arella!
+  
+</details>
