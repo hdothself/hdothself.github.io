@@ -2,6 +2,22 @@
 
 ## Animal Jokes 🐶
 <details>
+  <summary>What is a pigeons favorite drink?</summary>
+  Hot coo-coo!
+</details>
+<details>
+  <summary>What do you get when you cross an angry sheep and an upset cow?</summary>
+  An animal thats in a baaaaaaaad moooooood.
+</details>
+<details>
+  <summary>What did one wolf say to another?</summary>
+  Howls it goin'
+</details>
+<details>
+  <summary>Where do rabbits go after their wedding?</summary>
+  On their bunnymoon!
+</details>
+<details>
   <summary>When is a veterinarian the busiest?</summary>
   When its raining cats and dogs!
 </details>
