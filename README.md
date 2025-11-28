@@ -71,3 +71,7 @@
   <summary>What do you call it when a T.rex scores a goal?</summary>
   A dino-score!
 </details>
+<details>
+  <summary>What do you get when you cross a stegosaurus with a lemon?</summary>
+  A dino- sour!
+</details>
