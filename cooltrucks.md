@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Cool Trucks"
-permalink: /cool-trucks
+title: "Animal Jokes"
+permalink: /animal-jokes
 ---
 
-## Cool Trucks 🛻
+# Animal Jokes
