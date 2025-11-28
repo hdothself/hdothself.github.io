@@ -18,6 +18,10 @@
   <summary>What is it called when a cat sues another cat?</summary>
   A clawsuit!
 </details>
+<details>
+  <summary>What do you get when two giraffes collide?</summary>
+  An oirappic jam!
+</details>
 
 ## Sports Jokes 🏀
 
@@ -32,4 +36,8 @@
 <details>
   <summary>Where does a golfer celebrate his birthday?</summary>
   At a tee party!
+</details>
+<details>
+  <summary>Where do dogs hate to shop?</summary>
+  Flea Markets!
 </details>
