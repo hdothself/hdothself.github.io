@@ -1,5 +1,7 @@
 # Funny Jokes 😆
 
+[jokes page](/jokes)
+
 ## Animal Jokes 🐶
 <details>
   <summary>What is a pigeons favorite drink?</summary>
