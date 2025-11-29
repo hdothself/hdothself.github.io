@@ -1,6 +1,6 @@
 # Funny Jokes 😆
 
-[jokes page](/joke-page)
+[jokes page](https://bluefox30.github.io/joke-page)
 
 ## Animal Jokes 🐶
 <details>
