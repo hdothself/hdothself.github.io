@@ -1,3 +1,3 @@
 # Contents:
-[jokes](https://bluefox30.github.io/joke-page)                  
+[Jokes](https://bluefox30.github.io/joke-page)                  
 [Hero facts](https://bluefox30.github.io/hero-facts)
