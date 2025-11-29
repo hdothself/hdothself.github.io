@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hero Choosing"
-permalink: /hero-choosing
+title: "Hero Facts"
+permalink: /hero-facts
 ---
 ## Fantasy Races
 Creating a new character involves understanding the traits they share with you and the traits they don't.
@@ -12,5 +12,7 @@ Creating a new character involves understanding the traits they share with you a
 </details>
 <details>
   <summary>Elf</summary>
-  Age: Elves mature at about the same rate as humans but consider themselves childlike and inexperienced until about their 100th birthday. they typicly 
+  Age: Elves mature at about the same rate as humans but consider themselves childlike and inexperienced until about their 100th birthday.
+  They typically live for more than 700 years.
+  Size: Elves are generally a bit shorter than huumans. They are very slender and beautiful.
 </details>
