@@ -1,6 +1,6 @@
 # Funny Jokes 😆
 
-[jokes page](/jokes)
+[jokes page](/joke-page)
 
 ## Animal Jokes 🐶
 <details>
