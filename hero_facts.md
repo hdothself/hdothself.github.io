@@ -24,6 +24,15 @@ Creating a new character involves understanding the traits they share with you a
 
 # Weapons
 ## Swords
-### Shortsword
-### Longsword
-### Greatsword
+ <details>
+  <summary>Shortsword</summary>
+  h
+</details>
+<details>
+  <summary>Longsword</summary>
+  h
+</details>
+<details>
+  <summary>Greatsword</summary>
+  h
+</details>
