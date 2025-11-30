@@ -42,6 +42,11 @@ Creating a new character involves understanding the traits they share with you a
 
 ## Polearms
 <details>
+  <summary>Pike</summary>
+  Simple and effective, an inexpensive pike is a great weapon choice for starting heroes who find themselves short on gold. The spike dilivers sharp stabbing damage
+  to enemies, and can even be thrown if needed.
+</details>
+<details>
   <summary>Glaive</summary>
   The curved hook of a glaive allows it to deal extra damage. You can even use it to snare opponents and pull them in up close! The sharp edge of the blade can be 
   used to stab or slash at foes for even more attack options.
