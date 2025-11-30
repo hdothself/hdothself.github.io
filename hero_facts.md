@@ -26,7 +26,7 @@ Creating a new character involves understanding the traits they share with you a
 ## Swords
  <details>
   <summary>Shortsword</summary>
-  h
+  Nimble and adaptable, shortswords are popular across most character classes.
 </details>
 <details>
   <summary>Longsword</summary>
