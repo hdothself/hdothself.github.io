@@ -56,3 +56,8 @@ Creating a new character involves understanding the traits they share with you a
   Combining the reach of a pike with the blade of an axe, a halberd opens up even more fighting techniques for a trained warrior. By gripping the staff near the base,
   you gain a wider range for your slashes, while holding it closer to the blade will deliver blows with a mighty impact.
 </details>
+<details>
+  <summary>Fang Tian Ji</summary>
+  The complex blade of a fang tian ji is best placed in the hands of a highly trained fighter, for it takes years of experience to master the many attacks this weapon 
+  can achieve. Stabbing, slashing even blunt impact from the flat side of the blade, this weapon will give you countless ways to overcome your foes. 
+</details>
