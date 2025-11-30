@@ -19,7 +19,12 @@ Creating a new character involves understanding the traits they share with you a
   <summary>Elf</summary>
   Age: Elves mature at about the same rate as humans but consider themselves childlike and inexperienced until about their 100th birthday.
   They typically live for more than 700 years.                        
-  Size: Elves are generally a bit shorter than huumans. They are very slender and beautiful.
+  Size: Elves are generally a bit shorter than humans. They are very slender and beautiful.
+</details>
+<details>
+  <summary>Tabaxi</summary>
+  Age: Tabaxi age at the same rate as humans.
+  Size: Tabaxi are generally a little taller than humans, with the slender bodies and long winding tails of cats!
 </details>
 
 # Weapons
