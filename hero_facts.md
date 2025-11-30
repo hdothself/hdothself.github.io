@@ -39,3 +39,9 @@ Creating a new character involves understanding the traits they share with you a
   The greatsword is a mighty weapon requiring immense strength and skill to use effectively. Any untrained heroes may wind up hurting themselves more than their
   opponents if they wade into battle with one of these!
 </details>
+## Polearms
+<details>
+  <summary>Glaive</summary>
+  The curved hook of a glaive allows it to deal extra damage. You can even use it to snare opponents and pull them in up close! The sharp edge of the blade can be 
+  used to stab or slash at foes for even more attack options.
+</details>
