@@ -36,5 +36,6 @@ Creating a new character involves understanding the traits they share with you a
 </details>
 <details>
   <summary>Greatsword</summary>
-  h
+  The greatsword is a mighty weapon requiring immense strength and skill to use effectively. Any untrained heroes may wind up hurting themselves more than their
+  opponents if they wade into battle with one of these!
 </details>
